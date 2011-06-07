@@ -1,0 +1,3 @@
+[submodule "magit-cheatsheet"]
+	path = magit-cheatsheet
+	url = git@github.com:mtdavidson/magit-cheatsheet.git
